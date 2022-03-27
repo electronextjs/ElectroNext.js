@@ -5,7 +5,7 @@
 <p align="center">
 <a href="#details">
 <img src="https://img.shields.io/badge/License-MIT-319046?" alt="License-MIT"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/create electronext app-1.0.6-319046?" alt="License-MIT"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/create electronext app-v1.0.7-319046?" alt="License-MIT"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ElectroNext.js Release-v1.0.0-319046" alt="ElectroNext.js Release"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Template using - Typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Template using Typescript"/>
 
