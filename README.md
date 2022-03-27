@@ -1,6 +1,13 @@
-# Electron + Next + Typescript application example
 
-![ElectroNext.js Example](https://electronextjs.github.io/.github/public/preview.png)
+<p align="center"><img width="200" src="https://electronextjs.github.io/.github/public/electronext.logo.svg"></p>
+
+# <p align="center">ElectroNext.js</p>
+<p align="center">
+<a href="#details">
+<img src="https://img.shields.io/badge/License-MIT-319046?" alt="License-MIT"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/create electronext app-1.0.6-319046?" alt="License-MIT"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ElectroNext.js Release-v1.0.0-319046" alt="ElectroNext.js Release"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Template using - Typescript-3178C6?style=flat&logo=typescript&logoColor=white" alt="Template using Typescript"/>
 
 This example show how you can use Next.js inside an Electron application to avoid a lot of configuration, use Next.js router as view and use server-render to speed up the initial render of the application. Both Next.js and Electron layers are written in TypeScript and compiled to JavaScript during the build process.
 
@@ -58,6 +65,6 @@ _note regarding types:_
 ## License
 ElectroNext.js is licensed under the MIT License
 
-##
+## Preview
 
 ![ElectroNext.js Example](https://electronextjs.github.io/.github/public/preview.desktop.830x.png)
